@@ -1,6 +1,5 @@
 redis:7.4.1
 nginx:1.27.2
-java:8
 mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
